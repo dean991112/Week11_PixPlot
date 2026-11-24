@@ -1,0 +1,51 @@
+{
+    "version": "0.0.113",
+    "plot_id": "a4cad9e3-e80b-11f1-9d55-4c77cbac98eb",
+    "output_directory": "C:/Users/24474/Downloads/pixplot-user35/output",
+    "layouts": {
+        "umap": {
+            "variants": [
+                {
+                    "n_neighbors": 15,
+                    "min_dist": 0.01,
+                    "layout": "C:/Users/24474/Downloads/pixplot-user35/output\\data\\layouts\\umap-a4cad9e3-e80b-11f1-9d55-4c77cbac98eb.json",
+                    "jittered": "C:/Users/24474/Downloads/pixplot-user35/output\\data\\layouts\\umap-jittered-a4cad9e3-e80b-11f1-9d55-4c77cbac98eb.json"
+                }
+            ]
+        },
+        "alphabetic": {
+            "layout": "C:/Users/24474/Downloads/pixplot-user35/output\\data\\layouts\\grid-a4cad9e3-e80b-11f1-9d55-4c77cbac98eb.json"
+        },
+        "grid": {
+            "layout": "C:/Users/24474/Downloads/pixplot-user35/output\\data\\layouts\\rasterfairy-a4cad9e3-e80b-11f1-9d55-4c77cbac98eb.json"
+        },
+        "categorical": false,
+        "date": false,
+        "geographic": null,
+        "custom": null
+    },
+    "initial_layout": "umap",
+    "point_sizes": {
+        "min": 0,
+        "grid": 0.16666666666666666,
+        "max": 0.19999999999999998,
+        "scatter": 0.03333333333333333,
+        "initial": 0.03333333333333333,
+        "categorical": 0.09999999999999999,
+        "geographic": 0.004166666666666667
+    },
+    "imagelist": "C:/Users/24474/Downloads/pixplot-user35/output\\data\\imagelists\\imagelist-a4cad9e3-e80b-11f1-9d55-4c77cbac98eb.json",
+    "atlas_dir": "C:/Users/24474/Downloads/pixplot-user35/output\\data\\atlases\\a4cad9e3-e80b-11f1-9d55-4c77cbac98eb",
+    "metadata": false,
+    "default_hotspots": "C:/Users/24474/Downloads/pixplot-user35/output\\data\\hotspots\\hotspot-a4cad9e3-e80b-11f1-9d55-4c77cbac98eb.json",
+    "custom_hotspots": "C:/Users/24474/Downloads/pixplot-user35/output\\data\\hotspots\\user_hotspots.json",
+    "gzipped": false,
+    "config": {
+        "sizes": {
+            "atlas": 2048,
+            "cell": 32,
+            "lod": 128
+        }
+    },
+    "creation_date": "24-November-2026-21:33:52"
+}
